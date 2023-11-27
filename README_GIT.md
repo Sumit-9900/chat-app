@@ -1,3 +1,3 @@
 # This is my Local Repo.
 <br>
-Author - Sumit Paul(CMRIT)
+Author - Sumit Paul(BMSIT)
