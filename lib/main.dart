@@ -20,7 +20,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'FlutterChat',
+      title: 'Chatify',
       debugShowCheckedModeBanner: false,
       theme: ThemeData().copyWith(
         colorScheme: ColorScheme.fromSeed(
